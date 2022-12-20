@@ -1,0 +1,27 @@
+body {
+    background-image: url("./image/pexels-photo-743986.webp");
+    background-color: #cccccc;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    font-weight: 800;
+}
+
+.nav {
+    background-color: rgb(118, 118, 118);
+}
+
+.nav-item {
+    border: 1px solid #ccc;
+}
+
+.nav-link {
+    color: black;
+    font-size: 1.6rem;
+}
+
+.alert {
+    font-size: 1.8rem;
+}
